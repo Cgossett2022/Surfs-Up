@@ -30,7 +30,7 @@ Overall, the temperature in Oahu is relatively constant throughout the year, oft
 
 ### Precipitation Results
 
-In addition to temperature, I decided to look at precipation for both months.
+In addition to temperature, I decided to look at precipitation for both months.
 
 - June reflected a mean rainfall of 14% and a standard deviation of 34%. 
 
