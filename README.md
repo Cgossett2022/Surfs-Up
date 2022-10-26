@@ -43,6 +43,7 @@ In addition to temperature, I decided to look at precipation for both months.
 
 ![December Precip](https://user-images.githubusercontent.com/111243284/197912096-bcf84701-c7be-47f1-aae1-59d7fb5f1580.png)
 
+### End Summary
 
-Based on both the precipitation and temperatures in Oahu, the weather is mostly consistent throughout the year. Even though December is a little more diverse in terms of weather patterns, the results show that Surf n' Shake would be sucessful at this location.
+Based on both the precipitation and temperature in Oahu, the weather is mostly consistent throughout the year. Even though December is a little more diverse in terms of weather patterns, the results show that Surf n' Shake would be sucessful at this location.
 
