@@ -2,7 +2,7 @@
 
 
 ## Overview
-For this project, I considered opening a Surf n' Shake Shop in Oahu, Hawaii, which will provide surfboards and ice cream to locals. In order to get my business up and running, I need funding from investors. W. Avy is an investor who is interested in my business, but he is concerned about the weather risks that could threaten my success. In order to move forward with W. Avy, I used SQLite and SQLAlchemy to perform an analysis on the weather temperatures for June and December. 
+For this project, I considered opening a Surf n' Shake Shop in Oahu, Hawaii, which will provide surfboards and ice cream to locals. In order to get my business up and running, I reached out to W. Avy, who is an investor interested in my business. W. Avy liked my idea, but his only concern was the weather risks, which could threaten my success. In order to move forward with W. Avy, I used SQLite and Pandas to perform an analysis on the weather temperatures for June and December. 
 
 
 ## Results
@@ -45,5 +45,5 @@ In addition to temperature, I decided to look at precipation for both months.
 
 ### End Summary
 
-Based on both the precipitation and temperature in Oahu, the weather is mostly consistent throughout the year. Even though December is a little more diverse in terms of weather patterns, the results show that Surf n' Shake would be sucessful at this location.
+Based on both the temperature and precipitation in Oahu, the weather is mostly consistent throughout the year. Even though December is a little more diverse in terms of weather patterns, the results show that Surf n' Shake would be sucessful at this location.
 
