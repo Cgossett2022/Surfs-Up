@@ -9,10 +9,5 @@ I started my analysis by looking at June's temperatures.
 
 
 
-![image](https://user-images.githubusercontent.com/111243284/197905421-f8ef4862-24ac-4914-a6d9-1fc631ca92f1.png)
-
-
-![image](https://user-images.githubusercontent.com/111243284/197905496-c58c8ed0-7027-4b09-a256-4727391ac8aa.png)
-
 
 ## Summary
